@@ -1,0 +1,32 @@
+.bgimg {
+    background-position: center;
+    background-size: cover;
+    background-image: url(./images/car-2.jpg);
+    min-height: 65%;
+}
+
+h3  {
+    background-color: rgb(70, 70, 70);
+    color: white;
+    text-align: center;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+
+header {
+    display: block;
+}
+
+body, html {
+    height: 100%;
+}
+
+body    {
+    background-color: gray;
+}
+
+
+
